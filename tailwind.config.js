@@ -11,8 +11,8 @@ export default {
         mutedText: '#81786f',
       },
       fontFamily: {
-        sans: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        serif: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        sans: ['"Chalisa Oktavia"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        serif: ['"Chalisa Oktavia"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
         script: ['"Chalisa Oktavia"', 'cursive'],
       },
       boxShadow: {
