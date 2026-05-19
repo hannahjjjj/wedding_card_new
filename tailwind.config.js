@@ -11,8 +11,8 @@ export default {
         mutedText: '#81786f',
       },
       fontFamily: {
-        sans: ['Pretendard', 'Inter', 'system-ui', 'sans-serif'],
-        serif: ['"Noto Serif KR"', 'serif'],
+        sans: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        serif: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
         soft: '0 18px 50px rgba(63, 58, 54, 0.12)',

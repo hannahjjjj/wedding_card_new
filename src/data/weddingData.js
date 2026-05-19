@@ -3,7 +3,7 @@ export const weddingData = {
     image: `${import.meta.env.BASE_URL}image/cover.jpg`,
     groom: '타레미',
     bride: '김다솜',
-    date: '2026. 10. 24 SAT',
+    date: '2026. 08. 08 SAT',
     time: '오후 1시 30분',
     venue: '라움 웨딩홀 2층 그랜드볼룸',
   },
@@ -17,8 +17,8 @@ export const weddingData = {
     },
   },
   contacts: [
-    { role: '신랑', name: '김민준', phone: '010-1234-5678' },
-    { role: '신부', name: '이서연', phone: '010-9876-5432' },
+    { role: '신랑', name: '고종윤', phone: '010-9528-3397' },
+    { role: '신부', name: '김다솜', phone: '010-9879-7712' },
   ],
   gallery: [
     'https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=900&q=85',
