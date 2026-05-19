@@ -1,9 +1,8 @@
 export const weddingData = {
   cover: {
-    image:
-      'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=85',
-    groom: '김민준',
-    bride: '이서연',
+    image: `${import.meta.env.BASE_URL}image/cover.jpg`,
+    groom: '타레미',
+    bride: '김다솜',
     date: '2026. 10. 24 SAT',
     time: '오후 1시 30분',
     venue: '라움 웨딩홀 2층 그랜드볼룸',
