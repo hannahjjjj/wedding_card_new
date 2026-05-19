@@ -1,8 +1,8 @@
 export const weddingData = {
   cover: {
     image: `${import.meta.env.BASE_URL}image/cover.jpg`,
-    groom: '고종윤',
-    bride: '김다솜',
+    groom: 'Jong yun',
+    bride: 'Da som',
     date: '2026. 08. 08 SAT',
     time: '오후 1시 30분',
     venue: '라움 웨딩홀 2층 그랜드볼룸',

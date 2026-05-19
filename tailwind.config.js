@@ -13,7 +13,7 @@ export default {
       fontFamily: {
         sans: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
         serif: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        script: ['"Great Vibes"', 'cursive'],
+        script: ['"Chalisa Oktavia"', 'cursive'],
       },
       boxShadow: {
         soft: '0 18px 50px rgba(63, 58, 54, 0.12)',

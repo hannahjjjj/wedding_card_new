@@ -12,7 +12,7 @@ function App() {
   const [showIntro, setShowIntro] = useState(true);
 
   useEffect(() => {
-    const timer = window.setTimeout(() => setShowIntro(false), 2200);
+    const timer = window.setTimeout(() => setShowIntro(false), 3600);
 
     return () => window.clearTimeout(timer);
   }, []);
