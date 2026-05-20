@@ -6,7 +6,7 @@ export default {
       colors: {
         paper: '#fffdf9',
         linen: '#f7f2ec',
-        sand: '#e6d9c9',
+        sand: '#f8f2e8',
         stoneText: '#3f3a36',
         mutedText: '#81786f',
       },

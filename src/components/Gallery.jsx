@@ -7,7 +7,7 @@ function Gallery({ images }) {
   const [selectedImage, setSelectedImage] = useState(null);
 
   return (
-    <Section eyebrow="GALLERY" title="우리의 순간들" className="bg-linen/70">
+    <Section eyebrow="GALLERY" title="" className="bg-linen/70">
       <div className="grid grid-cols-3 gap-2">
         {images.map((image, index) => (
           <button

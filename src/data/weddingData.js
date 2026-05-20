@@ -4,8 +4,8 @@ export const weddingData = {
     groom: 'Jong yun',
     bride: 'Da som',
     date: '2026. 08. 08 SAT',
-    time: '오후 1시 30분',
-    venue: '라움 웨딩홀 2층 그랜드볼룸',
+    time: '오전 11시 30분',
+    venue: '그랜드컨벤션센터 서울',
   },
   greeting: {
     title: '소중한 분들을 초대합니다',
@@ -21,12 +21,7 @@ export const weddingData = {
     { role: '신부', name: '김다솜', phone: '010-9879-7712' },
   ],
   gallery: [
-    'https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=900&q=85',
-    'https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=900&q=85',
-    'https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=900&q=85',
-    'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=85',
-    'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=900&q=85',
-    'https://images.unsplash.com/photo-1525258946800-98cfd641d0de?auto=format&fit=crop&w=900&q=85',
+
   ],
   location: {
     name: '그랜드컨벤션센터 서울',
