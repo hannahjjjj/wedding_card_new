@@ -37,7 +37,7 @@ function App() {
           <Account accounts={weddingData.accounts} />
           <footer className="px-8 py-12 text-center">
             <p className="font-serif text-lg text-stoneText">Thank you</p>
-            <p className="mt-3 text-xs tracking-[0.22em] text-mutedText">MINJUN & SEOYEON</p>
+            <p className="mt-3 text-xs tracking-[0.22em] text-mutedText">JONGYUN & DASOM</p>
           </footer>
         </motion.main>
       )}
