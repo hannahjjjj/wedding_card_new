@@ -32,7 +32,7 @@ function IntroSplash({ data }) {
           <p className="text-sm text-mutedText">
             {data.groom} <span className="mx-2 text-sand">|</span> {data.bride}
           </p>
-          <p className="mt-3 text-[11px] tracking-[0.28em] text-mutedText">{data.date}</p>
+          <p className="mt-3 font-sans text-[11px] tracking-[0.28em] text-mutedText">{data.date}</p>
         </motion.div>
         <motion.div
           initial={{ scaleX: 0 }}
