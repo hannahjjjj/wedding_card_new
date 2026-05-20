@@ -21,7 +21,7 @@ function IntroSplash({ data }) {
           transition={{ delay: 0.35, duration: 0.9, ease: 'easeOut' }}
           className="font-script text-[78px] leading-none text-stoneText"
         >
-          Wedding Day
+          Dreamland
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 10 }}
