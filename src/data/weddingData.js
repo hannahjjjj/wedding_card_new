@@ -1,6 +1,6 @@
 export const weddingData = {
   cover: {
-    image: `${import.meta.env.BASE_URL}image/cover.jpg`,
+    image: `${import.meta.env.BASE_URL}image/light_cover.png`,
     groom: 'Jong yun',
     bride: 'Da som',
     date: '2026. 08. 08 SAT',
