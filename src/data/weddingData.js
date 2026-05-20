@@ -12,8 +12,8 @@ export const weddingData = {
     message:
       '서로의 가장 좋은 친구가 되어 같은 방향을 바라보며 걸어가려 합니다. 저희의 첫걸음에 함께하시어 따뜻한 축복으로 자리를 빛내주세요.',
     parents: {
-      groom: '김영수 · 박미정의 장남 종윤',
-      bride: '이상훈 · 최은주의 차녀 다솜',
+      groom: '고승원 · 함영애의 아들 종윤',
+      bride: '김태건 · 이상은의 딸 다솜',
     },
   },
   contacts: [
@@ -29,29 +29,27 @@ export const weddingData = {
     'https://images.unsplash.com/photo-1525258946800-98cfd641d0de?auto=format&fit=crop&w=900&q=85',
   ],
   location: {
-    name: '라움 웨딩홀',
-    address: '서울특별시 강남구 언주로 564 라움아트센터',
+    name: '그랜드컨벤션센터 서울',
+    address: '서울특별시 양평로 58 그랜드 컨벤션 센터',
     mapImage:
-      'https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1000&q=80',
+        `${import.meta.env.BASE_URL}image/map.png`,
     links: [
-      { label: '카카오맵', href: 'https://map.kakao.com/link/search/라움아트센터' },
-      { label: '네이버 지도', href: 'https://map.naver.com/p/search/라움아트센터' },
-      { label: '티맵', href: 'https://apis.openapi.sk.com/tmap/app/routes?name=라움아트센터' },
+      { label: '카카오맵', href: 'https://map.kakao.com/link/search/그랜드컨벤션센터 서울' },
+      { label: '네이버 지도', href: 'https://map.naver.com/p/search/그랜드컨벤션센터 서울' },
+      { label: '티맵', href: 'https://apis.openapi.sk.com/tmap/app/routes?name=그랜드컨벤션센터 서울' },
     ],
   },
   accounts: [
     {
       side: '신랑측',
       items: [
-        { bank: '국민은행', holder: '김민준', number: '123456-78-901234' },
-        { bank: '신한은행', holder: '김영수', number: '110-123-456789' },
+        { bank: '국민은행', holder: '고종윤', number: '40240204177502' }
       ],
     },
     {
       side: '신부측',
       items: [
-        { bank: '우리은행', holder: '이서연', number: '1002-345-678901' },
-        { bank: '하나은행', holder: '이상훈', number: '352-910123-45678' },
+        { bank: '우리은행', holder: '김다솜', number: '1002-345-678901' }
       ],
     },
   ],
