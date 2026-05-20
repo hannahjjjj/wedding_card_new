@@ -19,7 +19,7 @@ function IntroSplash({ data }) {
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.35, duration: 0.9, ease: 'easeOut' }}
-          className="font-script text-[78px] leading-none text-stoneText"
+          className="font-script text-[62px] leading-[1.15] text-stoneText"
         >
           Dreamland
         </motion.p>
