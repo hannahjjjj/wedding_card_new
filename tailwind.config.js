@@ -11,9 +11,9 @@ export default {
         mutedText: '#81786f',
       },
       fontFamily: {
-        sans: ['"La Paloma"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        serif: ['"La Paloma"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        script: ['"Chalisa Oktavia"', 'cursive'],
+        sans: ['"Underland"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        serif: ['"Underland"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        script: ['"Underland"', 'cursive'],
       },
       boxShadow: {
         soft: '0 18px 50px rgba(63, 58, 54, 0.12)',
