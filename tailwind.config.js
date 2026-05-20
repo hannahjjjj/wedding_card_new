@@ -11,9 +11,9 @@ export default {
         mutedText: '#81786f',
       },
       fontFamily: {
-        sans: ['"Dreamland"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        serif: ['"Dreamland"', '"KoPub Dotum"', 'system-ui', 'sans-serif'],
-        script: ['"Dreamland"', 'cursive'],
+        sans: ['"KoPub Dotum"', 'system-ui', 'sans-serif'],
+        serif: ['"Cormorant Garamond"', '"KoPub Dotum"', 'serif'],
+        script: ['"Cormorant Garamond"', '"KoPub Dotum"', 'serif'],
       },
       boxShadow: {
         soft: '0 18px 50px rgba(63, 58, 54, 0.12)',
