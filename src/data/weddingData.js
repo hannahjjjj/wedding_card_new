@@ -21,7 +21,12 @@ export const weddingData = {
     { role: '신부', name: '김다솜', phone: '010-9879-7712' },
   ],
   gallery: [
-
+    `${import.meta.env.BASE_URL}image/001.jpeg`,
+    `${import.meta.env.BASE_URL}image/002.png`,
+    `${import.meta.env.BASE_URL}image/003.jpeg`,
+    `${import.meta.env.BASE_URL}image/004.png`,
+    `${import.meta.env.BASE_URL}image/005.jpeg`,
+    `${import.meta.env.BASE_URL}image/006.jpeg`,
   ],
   location: {
     name: '그랜드컨벤션센터 서울',
