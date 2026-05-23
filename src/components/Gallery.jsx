@@ -69,12 +69,12 @@ function Gallery({ images }) {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             className="fixed inset-0 z-50 grid place-items-center bg-black/82 p-5"
-            onClick={() => setSelectedImage(null)}
+            onClick={() => setSelectedIndex(null)}
           >
             <button
               type="button"
               className="absolute right-5 top-5 grid h-11 w-11 place-items-center rounded-full bg-white/15 text-2xl text-white"
-              onClick={() => setSelectedImage(null)}
+              onClick={() => setSelectedIndex(null)}
               aria-label="닫기"
             >
               <FiX />

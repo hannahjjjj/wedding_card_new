@@ -27,6 +27,8 @@ export const weddingData = {
     `${import.meta.env.BASE_URL}image/001.jpeg`,
     `${import.meta.env.BASE_URL}image/003.jpeg`,
     `${import.meta.env.BASE_URL}image/002.png`,
+    `${import.meta.env.BASE_URL}image/011.jpeg`,
+    `${import.meta.env.BASE_URL}image/012.jpeg`,
     `${import.meta.env.BASE_URL}image/007.jpeg`,
     `${import.meta.env.BASE_URL}image/008.jpeg`,
     `${import.meta.env.BASE_URL}image/009.jpeg`,
