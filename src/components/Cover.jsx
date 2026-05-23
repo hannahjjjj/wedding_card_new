@@ -14,7 +14,7 @@ function Cover({ data }) {
         <p className="mb-5 text-xs tracking-[0.34em]">WEDDING INVITATION</p>
         <h1 className="font-serif text-[42px] font-medium leading-tight">
           {data.groom}
-          <span className="mx-3 text-2xl"> ❤ </span>
+          <span className="mx-3 text-2xl"> დ </span>
           {data.bride}
         </h1>
         <div className="mt-8 h-px w-16 bg-white/70" />
